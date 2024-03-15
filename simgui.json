@@ -1,0 +1,30 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/SmartDashboard/Drivetrain": "Subsystem",
+      "/SmartDashboard/Launcher": "Subsystem",
+      "/SmartDashboard/Scheduler": "Scheduler"
+    },
+    "windows": {
+      "/SmartDashboard/Drivetrain": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/SmartDashboard/Launcher": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/SmartDashboard/Scheduler": {
+        "window": {
+          "visible": true
+        }
+      }
+    }
+  },
+  "NetworkTables View": {
+    "visible": false
+  }
+}
